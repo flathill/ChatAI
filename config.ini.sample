@@ -1,0 +1,18 @@
+# config.iniにファイル名を変更して使用してください
+
+# OpenAI API Key
+OPENAI_API_KEY=
+# 会話履歴ファイル名
+HISTORYFILE=conversation_history
+# モデル名
+MODEL=gpt-3.5-turbo
+# ユーザ名
+USER=ユーザ
+# アシスタント名
+ASSISTANT=アシスタント
+# 性格
+CHARACTOR=あなたは親切なアシスタントです。ユーザの問いかけに対して人間らしいフレンドリーな応答をしてください。
+# 会話の開始の文章(MOTD)
+MOTD=ようこそ。会話を楽しんでください。
+# デバッグ
+DEBUG=False
